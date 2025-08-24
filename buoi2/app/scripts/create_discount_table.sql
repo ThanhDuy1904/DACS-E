@@ -1,5 +1,0 @@
-CREATE TABLE Discount (
-    id INT IDENTITY(1,1) PRIMARY KEY,
-    maDiscount NVARCHAR(50) NOT NULL UNIQUE,
-    tenDiscount NVARCHAR(255) NOT NULL
-);
